@@ -11,7 +11,7 @@ export class AppComponent {
 
   constructor() {
 
-    var firebaseConfig = {
+    const firebaseConfig = {
       apiKey: 'AIzaSyAymLCuWlx9DwQvanXK8cCLj_Mq0wAPh-A',
       authDomain: 'bookshelves-c626c.firebaseapp.com',
       databaseURL: 'https://bookshelves-c626c.firebaseio.com',
